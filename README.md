@@ -1,4 +1,4 @@
-# Lighthouse - Desafio de Ciência de Dados
+# Desafio de Ciência de Dados
 
 ## Objetivo
 Realizar a análise exploratória dos dados e reponder a questões de negócio levantadas. Também é objetivo construir um modelo de regressão capaz de predizer o valor dos veículos anunciados em função das features fornecidas.
